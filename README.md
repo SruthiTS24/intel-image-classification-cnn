@@ -72,22 +72,6 @@ Forest was the best-performing class due to its visually distinctive texture.
 Glacier had the lowest recall — frequently confused with mountain and sea due to
 shared visual features (rocky terrain and icy-blue tones).
 
-### Per-Class Performance
-
-| Class | Precision | Recall | F1-Score |
-|---|---|---|---|
-| Forest | 0.94 | 0.96 | **0.95** |
-| Street | 0.82 | 0.85 | 0.84 |
-| Sea | 0.74 | 0.86 | 0.79 |
-| Buildings | 0.73 | 0.83 | 0.77 |
-| Mountain | 0.78 | 0.72 | 0.75 |
-| Glacier | 0.86 | 0.66 | 0.75 |
-| **Macro Avg** | **0.81** | **0.81** | **0.81** |
-
-Forest was the best-performing class due to its visually distinctive texture.
-Glacier had the lowest recall — frequently confused with mountain and sea due to
-shared visual features (rocky terrain and icy-blue tones).
-
 ---
 
 ## Tech Stack
