@@ -88,8 +88,8 @@ shared visual features (rocky terrain and icy-blue tones).
 
 1. Clone the repository
 2. Download the dataset from Kaggle and place it as:
-intel_dataset/
 ````````
+intel_dataset/
 ├── seg_train/seg_train/
 
 └── seg_test/seg_test/
